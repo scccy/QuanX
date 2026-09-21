@@ -1,5 +1,4 @@
-host-suffix, nexon.io, 美区游戏
-host-suffix, nexon.com, 美区游戏
-host-suffix, nexon.net, 美区游戏
-host-suffix, playnexon.com, 美区游戏
+# 美区游戏: Nexon / 冒险岛M / NetEase
+host-keyword, nexon, 美区游戏
+host-keyword, maplestory, 美区游戏
 host-suffix, netease.com, 美区游戏
